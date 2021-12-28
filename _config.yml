@@ -1,6 +1,18 @@
-title: Koteswara Rao Annavarapu
+title: <p align="center"> Koteswara Rao Annavarapu </p>
 logo: /assets/img/logo.png
-description: Portfolio Page
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kannavarapu/">LinkedIn</a> |
+  <a href="https://github.com/kannavar">GitHub</a>
+  
+  <br>   
+  I am working as a Cloud architect for last 2 years and 
+  exploring the data sciene and machine learning area 
+  as part of EX.PGP AI&ML courseware
+  
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
